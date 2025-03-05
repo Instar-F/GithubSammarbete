@@ -14,3 +14,7 @@ Detta är en responsiv och mobilanpassad onepager som presenterar Axxells progra
 - **Bootstrap** (för responsiv design)
 - **Git & GitHub** (för versionshantering)
 - **GitHub Pages** (för publicering)
+
+## 🔧 Installation
+1. Klona repot:
+   git clone https://github.com/ditt-användarnamn/axxell-programutveckling-onepager.git
