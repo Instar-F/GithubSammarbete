@@ -14,7 +14,3 @@ Detta är en responsiv och mobilanpassad onepager som presenterar Axxells progra
 - **Bootstrap** (för responsiv design)
 - **Git & GitHub** (för versionshantering)
 - **GitHub Pages** (för publicering)
-
-## 📂 Installation & Körning Lokalt
-1. Klona detta repo:
-   ```bash
