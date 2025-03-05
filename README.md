@@ -15,3 +15,4 @@ Detta är en responsiv och mobilanpassad onepager som presenterar Axxells progra
 ## 🔧 Installation
 1. Klona repot:
    git clone https://github.com/Instar-F/GithubSammarbete
+   kör index.html
