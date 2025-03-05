@@ -1,4 +1,4 @@
-# README
+# Axxell Programutveckling Onepager
 
 Detta är en responsiv och mobilanpassad onepager som presenterar Axxells programutvecklarutbildning. Webbsidan är byggd med Bootstrap och publicerad via GitHub Pages.
 
@@ -14,3 +14,7 @@ Detta är en responsiv och mobilanpassad onepager som presenterar Axxells progra
 - **Bootstrap** (för responsiv design)
 - **Git & GitHub** (för versionshantering)
 - **GitHub Pages** (för publicering)
+
+## 📂 Installation & Körning Lokalt
+1. Klona detta repo:
+   ```bash
